@@ -6,23 +6,21 @@ This repository contains the research work associated with the Springer-publishe
 
 **Selection of Transport Aircraft Using the Hybrid CRITIC-TOPSIS Method and Imputation of Missing Values in a Neutrosophic Environment**
 
-The study proposes a hybrid multi-criteria decision-making (MCDM) framework for evaluating and selecting transport aircraft under uncertain and incomplete data conditions.
+The study presents a hybrid Multi-Criteria Decision-Making (MCDM) framework for evaluating and selecting transport aircraft under uncertain and incomplete data conditions.
 
 ---
 
 ## Publication
 
-**Journal**
+### Journal
 
-International Journal of System Assurance Engineering and Management (Springer)
+**International Journal of System Assurance Engineering and Management (Springer)**
 
-**Publication Year**
+### Publication Year
 
-2025
+**2025**
 
----
-
-## Authors
+### Authors
 
 * Gurpreet Kaur
 * Arunava Majumder
@@ -36,15 +34,15 @@ International Journal of System Assurance Engineering and Management (Springer)
 
 ## Research Objective
 
-Transport aircraft selection involves multiple conflicting criteria and often contains incomplete information.
+Transport aircraft selection is a complex engineering decision involving multiple performance parameters and incomplete information.
 
-This work integrates:
+This research integrates:
 
 * Neutrosophic Sets
 * CRITIC Weighting Method
 * TOPSIS Ranking Method
 
-to improve decision accuracy and robustness in aircraft evaluation.
+to improve decision accuracy and robustness in aircraft evaluation and selection.
 
 ---
 
@@ -52,39 +50,41 @@ to improve decision accuracy and robustness in aircraft evaluation.
 
 1. Data Collection
 2. Missing Value Imputation
-3. Neutrosophic Representation
+3. Neutrosophic Representation of Data
 4. CRITIC Weight Calculation
 5. TOPSIS Ranking
-6. Aircraft Selection
+6. Aircraft Selection and Evaluation
 
 ---
 
-## Dataset
+## Dataset Characteristics
 
 * 38 Transport Aircraft Alternatives
 * 10 Evaluation Criteria
-* Incomplete and uncertain data environment
+* Incomplete and Uncertain Data Environment
 
 ### Example Evaluation Parameters
 
-* Maximum Take-Off Weight
+* Maximum Take-Off Weight (MTOW)
 * Static Thrust
-* Range
-* Wing Loading
 * Aspect Ratio
-* Speed
-* Fuel Consumption
+* Wing Loading
+* Fineness Ratio
+* Range
+* Cruise Speed
 * Take-Off Distance
+* Thrust-to-Weight Ratio
+* Fuel Consumption
 
 ---
 
 ## Research Contributions
 
-* Hybrid CRITIC-TOPSIS framework
-* Missing value handling through neutrosophic representation
-* Multi-criteria transport aircraft evaluation
-* Improved decision-support methodology
-* Application to aerospace system selection problems
+* Development of a Hybrid CRITIC-TOPSIS Framework
+* Missing Value Handling through Neutrosophic Representation
+* Multi-Criteria Transport Aircraft Evaluation
+* Improved Decision Support Methodology
+* Application of MCDM Techniques in Aerospace Engineering
 
 ---
 
@@ -94,26 +94,35 @@ to improve decision accuracy and robustness in aircraft evaluation.
 Transport-Aircraft-Selection-CRITIC-TOPSIS
 │
 ├── README.md
+│
 ├── paper
-├── images
-└── results
+│   └── publication.pdf
+│
+└── images
+    └── publication-first-page.png
 ```
 
 ---
 
-## Publication
+## Publication Files
 
-The full publication is available in:
+### Research Paper
+
+📄 Full publication:
 
 ```text
 paper/publication.pdf
 ```
 
+### First Page Preview
+
+![Publication First Page](images/publication-first-page.png)
+
 ---
 
 ## Internship Association
 
-This research was conducted during an internship at **Innova World** and subsequently published in a Springer-indexed journal.
+This research was conducted during an internship at **Innova World** and was subsequently published in a Springer-indexed journal.
 
 ---
 
@@ -127,6 +136,7 @@ This research was conducted during an internship at **Innova World** and subsequ
 * Research Methodology
 * Technical Writing
 * Data Analysis
+* Aircraft Performance Evaluation
 
 ---
 
@@ -137,9 +147,16 @@ This research was conducted during an internship at **Innova World** and subsequ
 B.Tech Aerospace Engineering
 Lovely Professional University
 
-Research Interests:
+### Research Interests
 
-* Aerospace Systems
-* Space Technology
+* Aerospace Systems Engineering
+* Aircraft Performance Analysis
+* Space Systems
 * Decision Analytics
-* Aircraft Performance Evaluation
+* Engineering Optimization
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
+
+[GitHub](https://github.com/laxmipriyamurmu)
