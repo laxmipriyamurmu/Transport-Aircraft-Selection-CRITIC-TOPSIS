@@ -108,7 +108,7 @@ Transport-Aircraft-Selection-CRITIC-TOPSIS
 
 ### Research Paper
 
-📄 Full publication:
+The complete Springer publication is available in:
 
 ```text
 paper/publication.pdf
