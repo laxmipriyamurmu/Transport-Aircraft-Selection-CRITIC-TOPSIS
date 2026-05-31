@@ -88,21 +88,7 @@ to improve decision accuracy and robustness in aircraft evaluation and selection
 
 ---
 
-## Repository Structure
 
-```text
-Transport-Aircraft-Selection-CRITIC-TOPSIS
-│
-├── README.md
-│
-├── paper
-│   └── publication.pdf
-│
-└── images
-    └── publication-first-page.png
-```
-
----
 
 ## Publication Files
 
