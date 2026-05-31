@@ -22,13 +22,13 @@ The study presents a hybrid Multi-Criteria Decision-Making (MCDM) framework for 
 
 ### Authors
 
-* Gurpreet Kaur
-* Arunava Majumder
-* Aishwarya Dhara
-* Laxmipriya Murmu
-* Balvinder Singh Sandhu
-* Manoj Singh Adhikari
-* P. Uma Maheswari
+- Gurpreet Kaur
+- Arunava Majumder
+- Aishwarya Dhara
+- Laxmipriya Murmu
+- Balvinder Singh Sandhu
+- Manoj Singh Adhikari
+- P. Uma Maheswari
 
 ---
 
@@ -38,9 +38,9 @@ Transport aircraft selection is a complex engineering decision involving multipl
 
 This research integrates:
 
-* Neutrosophic Sets
-* CRITIC Weighting Method
-* TOPSIS Ranking Method
+- Neutrosophic Sets
+- CRITIC Weighting Method
+- TOPSIS Ranking Method
 
 to improve decision accuracy and robustness in aircraft evaluation and selection.
 
@@ -59,32 +59,32 @@ to improve decision accuracy and robustness in aircraft evaluation and selection
 
 ## Dataset Characteristics
 
-* 38 Transport Aircraft Alternatives
-* 10 Evaluation Criteria
-* Incomplete and Uncertain Data Environment
+- 38 Transport Aircraft Alternatives
+- 10 Evaluation Criteria
+- Incomplete and Uncertain Data Environment
 
 ### Example Evaluation Parameters
 
-* Maximum Take-Off Weight (MTOW)
-* Static Thrust
-* Aspect Ratio
-* Wing Loading
-* Fineness Ratio
-* Range
-* Cruise Speed
-* Take-Off Distance
-* Thrust-to-Weight Ratio
-* Fuel Consumption
+- Maximum Take-Off Weight (MTOW)
+- Static Thrust
+- Aspect Ratio
+- Wing Loading
+- Fineness Ratio
+- Range
+- Cruise Speed
+- Take-Off Distance
+- Thrust-to-Weight Ratio
+- Fuel Consumption
 
 ---
 
 ## Research Contributions
 
-* Development of a Hybrid CRITIC-TOPSIS Framework
-* Missing Value Handling through Neutrosophic Representation
-* Multi-Criteria Transport Aircraft Evaluation
-* Improved Decision Support Methodology
-* Application of MCDM Techniques in Aerospace Engineering
+- Development of a Hybrid CRITIC-TOPSIS Framework
+- Missing Value Handling through Neutrosophic Representation
+- Multi-Criteria Transport Aircraft Evaluation
+- Improved Decision Support Methodology
+- Application of MCDM Techniques in Aerospace Engineering
 
 ---
 
@@ -128,15 +128,15 @@ This research was conducted during an internship at **Innova World** and was sub
 
 ## Skills Demonstrated
 
-* Aerospace Systems Analysis
-* Multi-Criteria Decision Making (MCDM)
-* CRITIC Method
-* TOPSIS
-* Neutrosophic Sets
-* Research Methodology
-* Technical Writing
-* Data Analysis
-* Aircraft Performance Evaluation
+- Aerospace Systems Analysis
+- Multi-Criteria Decision Making (MCDM)
+- CRITIC Method
+- TOPSIS
+- Neutrosophic Sets
+- Research Methodology
+- Technical Writing
+- Data Analysis
+- Aircraft Performance Evaluation
 
 ---
 
@@ -144,16 +144,16 @@ This research was conducted during an internship at **Innova World** and was sub
 
 **Laxmipriya Murmu**
 
-B.Tech Aerospace Engineering
+B.Tech Aerospace Engineering  
 Lovely Professional University
 
 ### Research Interests
 
-* Aerospace Systems Engineering
-* Aircraft Performance Analysis
-* Space Systems
-* Decision Analytics
-* Engineering Optimization
+- Aerospace Systems Engineering
+- Aircraft Performance Analysis
+- Space Systems
+- Decision Analytics
+- Engineering Optimization
 
 ### Connect
 
