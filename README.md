@@ -1,6 +1,6 @@
 # Selection of Transport Aircraft Using Hybrid CRITIC-TOPSIS in a Neutrosophic Environment
 
-Research repository accompanying the Springer publication on transport aircraft selection using a hybrid Multi-Criteria Decision-Making (MCDM) framework integrating the CRITIC weighting method, TOPSIS ranking, and Neutrosophic Sets for uncertainty handling.
+Research repository accompanying the Springer-published paper on transport aircraft selection using a hybrid Multi-Criteria Decision-Making (MCDM) framework integrating the CRITIC weighting method, TOPSIS ranking, and Neutrosophic Sets for uncertainty handling.
 
 ---
 
@@ -8,13 +8,13 @@ Research repository accompanying the Springer publication on transport aircraft 
 
 **Title**
 
-Selection of Transport Aircraft Using the Hybrid CRITIC-TOPSIS Method and Imputation of Missing Values in a Neutrosophic Environment
+*Selection of Transport Aircraft Using the Hybrid CRITIC-TOPSIS Method and Imputation of Missing Values in a Neutrosophic Environment*
 
 **Journal**
 
 International Journal of System Assurance Engineering and Management (Springer)
 
-**Year**
+**Publication Year**
 
 2025
 
@@ -22,64 +22,63 @@ International Journal of System Assurance Engineering and Management (Springer)
 
 ## Abstract
 
-Selecting an appropriate transport aircraft requires balancing numerous performance parameters while dealing with uncertainty and incomplete information. This research proposes a hybrid decision-making framework that combines the CRITIC objective weighting method with the TOPSIS ranking technique in a Neutrosophic environment. The proposed methodology improves decision robustness by effectively handling missing values and uncertain engineering data.
+Selecting the most suitable transport aircraft requires evaluating multiple engineering criteria while addressing uncertainty and incomplete information. This research proposes a hybrid Multi-Criteria Decision-Making (MCDM) framework that combines the CRITIC objective weighting method with the TOPSIS ranking technique under a Neutrosophic environment. The proposed methodology effectively handles missing data, improves decision robustness, and provides a systematic approach for transport aircraft selection.
 
 ---
 
 ## Research Objectives
 
-- Develop a hybrid CRITIC-TOPSIS decision-making framework
-- Handle incomplete datasets using Neutrosophic Sets
-- Evaluate transport aircraft using objective weighting
-- Rank aircraft alternatives based on multiple engineering criteria
-- Demonstrate the applicability of MCDM techniques in aerospace engineering
+* Develop a hybrid CRITIC-TOPSIS framework for aircraft selection.
+* Handle incomplete datasets using Neutrosophic Sets.
+* Determine objective criterion weights using the CRITIC method.
+* Rank transport aircraft alternatives using TOPSIS.
+* Demonstrate the applicability of advanced MCDM techniques in aerospace engineering.
 
 ---
 
 ## Methodology
 
-The research workflow consists of the following stages:
+The proposed decision-making framework consists of the following stages:
 
 1. Collection of aircraft performance data
-2. Treatment of missing values using Neutrosophic Sets
-3. Objective criteria weighting using the CRITIC method
-4. Aircraft ranking using TOPSIS
-5. Comparative performance evaluation
-6. Final transport aircraft selection
+2. Identification and imputation of missing values
+3. Representation of uncertainty using Neutrosophic Sets
+4. Objective weighting of evaluation criteria using CRITIC
+5. Aircraft ranking using the TOPSIS method
+6. Comparative analysis and final aircraft selection
 
 ---
 
 ## Dataset
 
-The study considers:
+The study evaluates:
 
-- 38 Transport Aircraft Alternatives
-- 10 Evaluation Criteria
-- Incomplete engineering datasets
-- Uncertain performance information
+* **38 Transport Aircraft Alternatives**
+* **10 Performance Evaluation Criteria**
+* **Incomplete and uncertain engineering datasets**
 
-### Evaluation Parameters
+### Evaluation Criteria
 
-- Maximum Take-Off Weight (MTOW)
-- Static Thrust
-- Aspect Ratio
-- Wing Loading
-- Cruise Speed
-- Range
-- Fuel Consumption
-- Take-Off Distance
-- Thrust-to-Weight Ratio
-- Fineness Ratio
+* Maximum Take-Off Weight (MTOW)
+* Static Thrust
+* Aspect Ratio
+* Wing Loading
+* Cruise Speed
+* Range
+* Fuel Consumption
+* Take-Off Distance
+* Thrust-to-Weight Ratio
+* Fineness Ratio
 
 ---
 
 ## Research Contributions
 
-- Hybrid CRITIC-TOPSIS framework for aircraft selection
-- Missing-value imputation using Neutrosophic Sets
-- Robust MCDM methodology for aerospace applications
-- Objective weighting of engineering criteria
-- Improved aircraft decision-support framework
+* Proposed a hybrid CRITIC-TOPSIS decision-making framework.
+* Addressed missing-value imputation using Neutrosophic Sets.
+* Improved robustness of aircraft selection under uncertainty.
+* Demonstrated the application of MCDM techniques in aerospace engineering.
+* Provided a systematic methodology for engineering decision support.
 
 ---
 
@@ -93,11 +92,9 @@ The study considers:
 
 ## Research Paper
 
-The complete publication is available in:
+The complete publication can be viewed directly in GitHub:
 
-```
-paper/publication.pdf
-```
+📄 **[publication.pdf](paper/publication.pdf)**
 
 ---
 
@@ -109,27 +106,28 @@ This research was conducted during an internship at **Innova World** and was sub
 
 ## Skills Demonstrated
 
-- Multi-Criteria Decision Making (MCDM)
-- CRITIC Method
-- TOPSIS
-- Neutrosophic Sets
-- Aircraft Performance Evaluation
-- Engineering Optimization
-- Data Analysis
-- Research Methodology
-- Technical Writing
+* Multi-Criteria Decision Making (MCDM)
+* CRITIC Weighting Method
+* TOPSIS Ranking Method
+* Neutrosophic Sets
+* Aircraft Performance Evaluation
+* Engineering Optimization
+* Decision Analytics
+* Data Analysis
+* Research Methodology
+* Technical Writing
 
 ---
 
 ## Authors
 
-- Gurpreet Kaur
-- Arunava Majumder
-- Aishwarya Dhara
-- **Laxmipriya Murmu**
-- Balvinder Singh Sandhu
-- Manoj Singh Adhikari
-- P. Uma Maheswari
+* Gurpreet Kaur
+* Arunava Majumder
+* Aishwarya Dhara
+* **Laxmipriya Murmu**
+* Balvinder Singh Sandhu
+* Manoj Singh Adhikari
+* P. Uma Maheswari
 
 ---
 
@@ -137,18 +135,16 @@ This research was conducted during an internship at **Innova World** and was sub
 
 **Laxmipriya Murmu**
 
-B.Tech Aerospace Engineering  
+B.Tech Aerospace Engineering
 Lovely Professional University
 
 **Research Interests**
 
-- Aerospace Systems Engineering
-- Aircraft Performance Analysis
-- Space Systems
-- Engineering Optimization
-- Decision Analytics
+* Aerospace Systems Engineering
+* Aircraft Performance Analysis
+* Space Systems
+* Engineering Optimization
+* Decision Analytics
 
-**Connect**
-
-- LinkedIn: https://www.linkedin.com/in/laxmipriyamurmu/
-- GitHub: https://github.com/laxmipriyamurmu
+📫 **LinkedIn**
+https://www.linkedin.com/in/laxmipriyamurmu/
